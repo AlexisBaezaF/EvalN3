@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "430477544334",
+    "firebase_url": "https://evaln3-61e2d-default-rtdb.firebaseio.com",
+    "project_id": "evaln3-61e2d",
+    "storage_bucket": "evaln3-61e2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430477544334:android:e8fc20b0b0c74ee3a832df",
+        "android_client_info": {
+          "package_name": "com.example.evaln3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430477544334-d8m3009okvb4pm4tfi2rthkh6upk1fc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0lPHV6X5hnXN_fJqvQl9IJbcq4pw9tmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430477544334-d8m3009okvb4pm4tfi2rthkh6upk1fc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
